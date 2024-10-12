@@ -1,0 +1,15 @@
+{
+  "name": "particle_fluid0",
+  "version": "0.0.1",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve public"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
